@@ -1,0 +1,61 @@
+{"version_code":451203,"content":"
+<p>ÊÍÏíË 6.30</p>
+
+<li>GBWhatsApp | ÔßÑ ßÈíÑ ÈÍÌã ÇáÓãÇÁ ááÃÎ ÚãÑ</li>
+<li>ÇáÊÍÏíË áäÓÎÉ ÇáãÇÑßÊ 2.18.46</li>
+<li>(ÌÏíÏ) ÇáÇä ÚäÏãÇ íŞæã ÇÍÏ ãÇ ÈÍĞİ ÑÓÇáÉ ãä ÌåÇÒß ÓíÃÊíß ÇÔÚÇÑ íÎÈÑß ÈÇáÑÓÇáÉ ÇáÊí íÑíÏ ÍĞİåÇ (ÇÓÊÑÏÇÏåÇ)</li>
+<li>ÊİÚíá ãíÒÉ æÖÚ æÕİ ááãÌãæÚÇÊ</li>
+<li>(ÌÏíÏ) íãßäß ãÔÇåÏÉ æÕİ Çí ãÌãæÚÉ ÏÇÎá ÇáãÍÇÏËÉ</li>
+<li>(ÌÏíÏ) ÎíÇÑ ÇáäÕ ÇáÊáŞÇÆí</li>
+<li>ÅÚÇÏÉ ÇáÎíÇÑ 6.19 áÊÔÛíá ÇáİíÏíæåÇÊ ÈÇáãÔÛá ÇáÎÇÕ Èß</li>
+<li>ÚäÏãÇ íŞæã ÇÍÏ ãÇ ÈÊæÌíå ÑÓÇáÉ áß İí Çí ãÌãæÚÉ ÓÊÙåÑ ÚáÇãÉ @ ÇÓİá ÇáãÍÇÏËÉ</li>
+<li>ÅÚÇÏÉ ÒÑ ÊÍæíá Çí İíÏíæ áÕæÑÉ ãÊÍÑßÉ æÇáÚßÓ</li>
+<li>ÃÖÇİÉ ÎíÇÑ áÊÚØíá ÇåÊÒÇÒ WhatsApp ÈÇÚáì ÔÇÔÉ ÇáãÍÇÏËÇÊ (ÇİÊÍ ÇáãÍÇÏËÇÊ ÇáãÎİíÉ Ëã ÇáÇÚÏÇÏÇÊ)</li>
+<li>ÅÖÇİÉ ÎíÇÑ áÊÚØíá ÙåæÑ ÚÏÏ ÇáÑÓÇÆá ÇáãÎİíÉ Úáì ÇíŞæäÉ ÇáÈÑäÇãÌ (ÇİÊÍ ÇáãÍÇÏËÇÊ ÇáãÎİíÉ Ëã ÇáÇÚÏÇÏÇÊ)</li>
+<li>ÏÚã ÊÛííÑ Ëíã ÔÇÔÉ ÅäÔÇÁ ãÌãæÚÉ ÌÏíÏÉ - ÑÓÇáÉ ÌãÇÚíÉ ÌÏíÏÉ - ÑÓÇáÉ ãÌÏæáÉ - ÇáãÍÇÏËÇÊ ÇáãÎÕÕÉ</li>
+<li>ÅÖÇİÉ ÇáŞÓã 2.8 áÊÛííÑ Ëíã ÔÇÔÉ ÇáÑÓÇÆá ÇáããíÒÉ ÈäÌãÉ</li>
+<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 2.2.30A áÊÛííÑ ÍÌã äÕ ãÊÕá ÇáÇä æÇÎÑ ÙåæÑ İí ÔÇÔÉ ÇáãÍÇÏËÇÊ ÇáÑÆíÓíÉ</li>
+<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 2.4.13A áÊÛííÑ ÍÌã äÕ ãÊÕá ÇáÇä æÇÎÑ ÙåæÑ İí ÔÇÔÉ ÇáÇÓãÇÁ</li>
+<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 1.2.66 áÇÎİÇÁ ÚÑÖ æÕİ ÇáãÌãæÚÇÊ İí ÇáãÍÇÏËÉ</li>
+<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 1.2.67 áÊÛííÑ áæä ÇááŞÈ İí ÇáãÌãæÚÉ</li>
+<li>ÅÕáÇÍ ÇáÎíÇÑ 6.11 áÊÚØíá ÙåæÑ ÇáÅÔÚÇÑÇÊ ÇáãäÈËŞÉ İí ÇÕÏÇÑ ÇæÑíæ 8.0</li>
+<li>ÅÕáÇÍ ÙåæÑ ÇÓã ÇáãÔÑİ ÈÌÇäÈ ÇáÇÓã İí ÇáãÌãæÚÇÊ</li>
+<li>ÅÕáÇÍ ÇáÎíÇÑ ÑŞã 1.1.10 áÊÛííÑ ÎáİíÉ ÇÑİÇŞ ÇáæÓÇÆØ</li>
+<li>ÅÕáÇÍ ÍĞİ ÇáÑÏ ÇáÊáŞÇÆí</li>
+<li>ÅÕáÇÍ ÇáÑÏ ÇáÊáŞÇÆí ÚäÏ ÇÎÊíÇÑ æŞÊ ÇáÈÏÁ ãÓÇÁğ ææŞÊ ÇáÇäÊåÇÁ </li>
+<li>ÅÕáÇÍ İÊÍ ÇáãÍÇÏËÇÊ ÇáãÎİíÉ ãä ãÚáæãÇÊ ÇáãÌãæÚÉ Ëã ÇáäŞÑ Úáì ÕæÑÉ ÇáãÍÇÏËÉ</li>
+<li>ÅÕáÇÍ İÊÍ ÇáãÍÇÏËÇÊ ÇáãÎİíÉ ãä ÎáÇá ÇáãÌãæÚÇÊ ÇáãÔÊÑßÉ</li>
+<li>æÃÎÑì ÅßÊÔİåÇ ÈäİÓß</li>
+
+
+<li> New Base Updated to 2.18.46</li>
+<li> (NEW) Notification of Revoked Message (Know Which Message was Revoked) </li>
+<li> (NEW) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
+<li> (NEW) Added Back Play Video in your Favourite Player (Mod 6.19)</li>
+<li> (NEW) Added Option Auto-Text (PING!!)</li>
+<li> Enabled Group Description</li>
+<li> (NEW) Added Group Description in Header Like Status</li>
+<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific) </li>
+<li> Enabled Mention Button</li>
+<li> Added Option to Hide Group Description from Groups Header (Mod 1.2.66)</li>
+<li> Added Back Option to Convert Video to GIF</li>
+<li> Added Option to Edit Auto Reply Message</li>
+<li> Improved AutoReply</li>
+<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Themed New Group Page</li>
+<li> Added Themed New Broadcast Page</li>
+<li> Added Themed Custom Chats Screen</li>
+<li> Added Themed Scheduler Page</li>
+<li> Added Option to Color Unsaved Participants Name in Group (Mod 1.2.67)</li>
+<li> Added Online/Last Seen Text Size on Main Screen (Mod 2.2.30A)</li>
+<li> Added Online/Last Seen Text Size on Contacts Screen (Mod 2.4.13A)</li>
+<li> Fixed Admin Caption (Mod 1.2.64)</li>
+<li> Fixed delete AutoReply</li>
+<li> Fixed Hidden Chat counter Showing On Widget</li>
+<li> Fixed Hidden Chat Opening from Group Info</li>
+<li> Fixed Hidden Group Opening from Groups in Common</li>
+<li> And Much More..</li>
+
+","url":"http://mmmods.blogspot.com"
+}
